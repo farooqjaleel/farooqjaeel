@@ -1,33 +1,31 @@
-<p align="center">
-  <img src="https://i.ibb.co/9NN2c7H/1616687683131.jpg" alt="Farooq Jaleel" width="150px">
-</p>
+<div align="center">
+    <img src="https://i.ibb.co/9NN2c7H/1616687683131.jpg" alt="Farooq Jaleel" width="200" height="200">
+    <h1>Farooq Jaleel</h1>
+    <p>Computer Science Student, Problem Solver, Freelancer, and Open-Source Enthusiast</p>
+    <a href="https://www.linkedin.com/in/farooq-j-868b37121/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://twitter.com/jinn911/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter" alt="Twitter"></a>
+</div>
 
-<h1 align="center">👋 Hi, I'm Farooq Jaleel</h1>
+<div align="left">
+    <h2>About Me</h2>
+    <p>
+        Computer Science Student, Problem Solver, Freelancer, and Open-Source Enthusiast.<br>
+        Good in Algorithms, Data Structures, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br>
+        Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+    </p>
+    <ul>
+        <li>🌱 <b>I’m currently learning</b>: B-Tech Computer Science and Engineering.</li>
+        <li>🎯 ⭐️ Star the projects if you like it 🤩.</li>
+        <li>📫 <b>How to reach me</b>: You can reach out to me via <a href="mailto:farooq9n@gmail.com">email</a>.</li>
+        <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Gaming(🎮).</li>
+    </ul>
+</div>
 
-<p align="center">🌟 A passionate developer who loves to code and create.</p>
-
-<p align="center">🚀 I'm on a journey to turn ideas into reality and make a positive impact on the world.</p>
-
-<p align="center">🌐 Technical Skills:</p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
-
-<p align="center">📫 Feel free to reach out:</p>
-
-<p align="center">
-  <a href="mailto:farooq9n@gmail.com">
-    <img src="https://img.shields.io/badge/Email-farooq9n%40gmail.com-blue" alt="Email" height="30px">
-  </a>
-  <a href="https://www.linkedin.com/in/farooq-j-868b37121/">
-    <img src="https://img.shields.io/badge/LinkedIn-Farooq%20Jaleel-blue" alt="LinkedIn" height="30px">
-  </a>
-  <a href="https://twitter.com/jinn911">
-    <img src="https://img.shields.io/badge/Twitter-%40jinn911-blue" alt="Twitter" height="30px">
-  </a>
-</p>
-
-<p align="center">🌐 Explore my projects and contributions below!</p>
+<div align="center">
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=farooqjaleel&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200">
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farooqjaleel&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200">
+    <br>
+    <br>
+</div>
