@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <img src="https://ibb.co/xDDGXNq" alt="Farooq Jaleel" width="200">
+  <img src="https://i.ibb.co/9NN2c7H/1616687683131.jpg" alt="Farooq Jaleel" width="200">
 </p>
 
 <p align="center">
