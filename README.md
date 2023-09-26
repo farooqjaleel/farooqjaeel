@@ -8,14 +8,13 @@
 
 <p align="center">🚀 I'm on a journey to turn ideas into reality and make a positive impact on the world.</p>
 
-<p align="center">🌐 Here's a glimpse of what I'm all about:</p>
-
-- 💻 I'm deeply into front-end development with HTML, CSS, and JavaScript.
-- 🔙 Back-end development with Python, C, and C++ is my playground.
-- 💡 Crafting full-stack web applications is my expertise, and I relish tackling intricate challenges.
-- 📱 I've also explored mobile app development using React Native to bring concepts to life on smartphones.
-- 📊 Data analysis and visualization captivate me, and I thrive on deriving insights from data.
-- 🤖 Venturing into machine learning and artificial intelligence has been a recent fascination, and I'm thrilled by its potential.
+<p align="center">🌐 Technical Skills:</p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
 
 <p align="center">📫 Feel free to reach out:</p>
 
