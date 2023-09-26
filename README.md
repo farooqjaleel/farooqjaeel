@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/farooq-j-868b37121//"><img src="https://img.shields.io/badge/LinkedIn-FarooqJaleel-blue"></a>
   <a href="https://twitter.com/jinn911"><img src="https://img.shields.io/badge/Twitter-@YourTwitter-blue"></a>
-  <a href="https://instagram.com/farooq.j_"><img src="https://img.shields.io/badge/Portfolio-Instagram-brightgreen"></a>
+  <a href="https://instagram.com/farooq.j_"><img src="https://img.shields.io/badge/Instagram-farooq.j_-brightgreen"></a>
 </p>
 
 <h3 align="center"> 🔧 Technologies & Tools</h3>
