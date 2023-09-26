@@ -9,12 +9,13 @@
 <p align="center">🚀 Here are a few things I'm passionate about:</p>
 
 <p align="center">
-  <img src="https://your-badge-url-1.png" alt="Front-end Development" height="30px">
-  <img src="https://your-badge-url-2.png" alt="Back-end Development" height="30px">
-  <img src="https://your-badge-url-3.png" alt="Full-stack Web Development" height="30px">
-  <img src="https://your-badge-url-4.png" alt="Mobile App Development" height="30px">
-  <img src="https://your-badge-url-5.png" alt="Data Analysis and Visualization" height="30px">
-  <img src="https://your-badge-url-6.png" alt="Machine Learning and AI" height="30px">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+
 </p>
 
 <p align="center">📫 Let's connect:</p>
