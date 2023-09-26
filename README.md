@@ -56,10 +56,10 @@
 
 <!-- GitHub Profile Repository Link -->
 <p align="center">
-  <a href="https://github.com/farooqjaleel/farooqjaleel"><img src="https://img.shields.io/badge/GitHub%20Profile%20Repository-farooqjaleel%2Ffarooqjaleel-green" alt="GitHub Profile Repository"></a>
+  <a href="https://github.com/farooqjaleel/farooqjaleel"><img src="https://img.shields.io/badge/GitHub%20Profile%20Repository-farooqjaleel-green" alt="GitHub Profile Repository"></a>
 </p>
 
 <!-- GitHub ReadMe Hits Counter -->
 <p align="center">
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/farooqjaleel/farooqjaleel" alt="Hits">
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/farooqjaleel" alt="Hits">
 </p>
