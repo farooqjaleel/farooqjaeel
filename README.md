@@ -9,12 +9,12 @@
 <div align="left">
     <h2>About Me</h2>
     <p>
-        Computer Science Student, Problem Solver, Freelancer, and Open-Source Enthusiast.<br>
+        Software Tester ,Computer Engineer and Open-Source Enthusiast.<br>
         Good in Algorithms, Data Structures, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br>
         Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
     </p>
     <ul>
-        <li>🌱 <b>I’m currently learning</b>: B-Tech Computer Science and Engineering.</li>
+        <li>🌱 <b>Graduated</b>: B-Tech Computer Science and Engineering.</li>
         <li>🎯 ⭐️ Star the projects if you like it 🤩.</li>
         <li>📫 <b>How to reach me</b>: You can reach out to me via <a href="mailto:farooq9n@gmail.com">email</a>.</li>
         <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Gaming(🎮).</li>
